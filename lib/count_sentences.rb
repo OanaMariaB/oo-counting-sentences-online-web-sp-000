@@ -27,6 +27,7 @@ class String
   end
 
   def count_sentences
-binding.pry
+    all_words_in_string = self.split
+    
   end
 end
